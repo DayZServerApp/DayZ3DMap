@@ -5,4 +5,6 @@ DayZ 3D Terrain - Unity
 
 ![DayZ3DMap](https://github.com/DayZServerApp/DayZ3DMap/blob/master/DayZ3DMap.png)
 
+Developed using <a href="https://unity3d.com/" target="_blank">Unity</a>
+
 
