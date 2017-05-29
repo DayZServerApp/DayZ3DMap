@@ -9,4 +9,7 @@ Clone the project. Launch Unity and from the main menu select Open. Navigate to 
 
 Developed using <a href="https://unity3d.com/" target="_blank">Unity</a>
 
+Credit to the guys tied to <a href="https://www.reddit.com/r/dayz/comments/423tm7/chernarus_3d_model_wallpaper/" target="_blank">this thread</a> for the model and terrain image. 
+
+
 
